@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 123
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/zhzhang12138/zhzhang12138/assets/github-contribution-grid-snake.svg" /></div>
+![](https://raw.githubusercontent.com/zhzhang12138/zhzhang12138/main/assets/github-contribution-grid-snake.svg)
 345
 
 <!--
