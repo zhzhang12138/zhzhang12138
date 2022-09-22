@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="350"  width="1000" />
+  
+<div align="center" ><img order-radius="100px" src="[https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true)"/></div>
+<br>
 
 ![](https://raw.githubusercontent.com/zhzhang12138/zhzhang12138/main/assets/github-contribution-grid-snake.svg)
 
