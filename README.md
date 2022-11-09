@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 多读书，多看报，少吃零食，多睡觉 😎😎😎
 <!-- 
 <div align="center" ><img order-radius="100px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/></div>
 <br>
