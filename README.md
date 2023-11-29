@@ -8,6 +8,7 @@
 
 <!-- 贪吃蛇代码贡献图 -->
 ![](https://raw.githubusercontent.com/zhzhang12138/zhzhang12138/main/assets/github-contribution-grid-snake.svg)
+![](https://ghproxy.com/https://raw.githubusercontent.com/zhzhang12138/zhzhang12138/main/assets/github-contribution-grid-snake.svg)
 
                                                          _oo0oo_
                                                         o8888888o
